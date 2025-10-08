@@ -3,5 +3,4 @@ document.addEventListener('DOMContentLoaded', () => {
     console.log("Website loaded successfully!");
 })
 //This is Just comment's
-//This is Jus Testing
-
+// This KD's bros testing it so ignore it okay
